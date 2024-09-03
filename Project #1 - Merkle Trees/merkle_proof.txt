@@ -1,0 +1,13 @@
+leaf position: 783
+leaf value: "data item 783"
+Hash values in proof:
+  SQCC4KKZ4DqGbHp3rUE5/E6S7DAOu8RvPuorlWjPHs0=
+  q3fckGDrK1jtARAs/vk/iXE639Q0wh/CS9ZHnLzCfF8=
+  UlbBNiHdZUJgHCaeAM4edVC1vDy9JI3ObPtc6hPo1vw=
+  mLk6Y/NwPQr2h/5Zm1lrh1Zoai2DcUPh//Jv1F5yFvE=
+  ZBiIhCKvfXHXZV+w4TfaGbeR69BWnMw3Mn9qcJFodL8=
+  C/0X44F0iRCvK52ajGIYcfMrxU07DWp7HliBpa78uoQ=
+  bo26TOfUypAC4wfFaZXaXqmcI9odlF65OUhkqzx4U3s=
+  Skqt6cw5lCkv50f6vkakvqeQz6s+1yLzndm6VovqIG4=
+  pOg2pi4NcmfvXUMy1j9nCgFgG0tP6Y8XQhLy5Lab2UQ=
+  twyFI3AqQo8V1ieqq8JEOHlihMEd4RDHelIGVlW2CTg=
